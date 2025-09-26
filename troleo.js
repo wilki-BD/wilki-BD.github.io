@@ -125,7 +125,7 @@ pl.addEventListener('touchend', () => {
     setTimeout(() => {
 
 
-document.body.innerHTML = `<h1 id='con1'>jaja ya vete de aqui, esto queda entre nosotros jsjs, solo dale me encanta a mi comentario para que otros caigan jijiji🤫...</h1><img src='gato.jpg' height='300' width='300'>` ;
+document.body.innerHTML = `<h1 id='con1'>jaja ya vete de aqui, esto queda entre nosotros jsjs, solo dale me encanta a mi comentario para que otros caigan jijiji🤫...</h1><img src='1758575188224.jpg' height='300' width='300'>` ;
 
 document.body.style.background = 'black' ;
 document.body.style.animation = 'none';
